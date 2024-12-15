@@ -1,0 +1,9 @@
+ollama
+rich
+colorama
+customtkinter
+Pillow
+numpy
+groq
+nest-asyncio
+pydantic

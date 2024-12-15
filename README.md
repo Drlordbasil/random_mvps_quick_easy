@@ -48,5 +48,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Special thanks to AI assistance in development
-- All contributors and users of this repository
+- [drlordbasil](https://github.com/drlordbasil) - Original author
