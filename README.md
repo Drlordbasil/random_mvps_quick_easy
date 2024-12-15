@@ -30,6 +30,44 @@ cd random_mvps_quick_easy
 
 Each script in this repository is independent and contains its own documentation and usage instructions. Navigate to specific script directories for detailed information.
 
+## MVPs
+
+### Chat with History MVP
+`chat_with_history_mvp.py`
+A chat application that maintains conversation history and context. Features include:
+- Persistent chat history
+- Context-aware responses
+- Clean command-line interface
+
+### Pixel Art Collaborator
+`pixel_art_collab.py`
+An AI-powered pixel art creation tool that provides real-time feedback and suggestions:
+- Interactive pixel canvas
+- AI-powered art suggestions
+- Color palette management
+- Real-time feedback panel
+
+### Vision Chat GUI
+`vision_chat_gui.py`
+A modern GUI application for visual chat interactions:
+- Image analysis capabilities
+- Customizable chat interface
+- Visual content processing
+- Real-time response generation
+
+### ML Engineer RL
+`ml_engineer_rl.py`
+A meta-learning reinforcement learning system that learns to design ML architectures:
+- Automated ML architecture design
+- Performance-based reward system
+- Simulated training environment
+- Architecture optimization through RL
+- Dynamic layer and optimizer selection
+
+## Current Projects Status
+
+All MVPs are actively maintained and tested with Python 3.12. Each project demonstrates different aspects of AI integration and modern Python development practices.
+
 ## Contributing
 
 1. Fork the repository
